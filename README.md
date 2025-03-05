@@ -78,7 +78,7 @@ options = client.get_options(
 
 ## Planned Features
 
-The following endpoints are available in the EODHD API and planned for future implementation:
+The following endpoints are planned for future implementation:
 
 ### Historical Options Data
 Fetch historical end-of-day data for specific option contracts:
