@@ -10,7 +10,7 @@ setup(
         "python-dateutil>=2.8.0",
         "python-dotenv>=0.19.0"
     ],
-    author="Castellan Group",
+    author="Ben Davison",
     author_email="",  # Add your email
     description="A Python wrapper for the EODHD Options API",
     long_description=open("README.md").read(),
